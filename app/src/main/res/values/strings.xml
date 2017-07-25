@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clip Manager</string>
+    <string name="swipe_help_text">Swipe Clip for more actions</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_edit_clip">EditClip</string>
+    <string name="save">Save</string>
+    <string name="warning_data">Allow the app to AutoStart in your Settings. So no data will be missed.</string>
+    <string name="warning">Warning</string>
+</resources>
